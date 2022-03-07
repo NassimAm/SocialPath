@@ -1,4 +1,4 @@
-# sociopaths
+# Social-Path
 
 A new Flutter project.
 
